@@ -1,4 +1,4 @@
-### IT , DEVELOPMENT & DESIGN
+### Rafael Cóias
 
 Hi, my name is Rafael Cóias.
 
