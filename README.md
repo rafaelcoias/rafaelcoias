@@ -8,7 +8,7 @@ Hi, my name is Rafael Cóias.
 
 🔐️  In September 2022 I finished CCNA, a Cisco's Cybersecurity course where I learned networking, routing and (of course) cybersecurity.
 
-I am looking forward to finish my Iscte degree and 42 course in 2023 and start working as a Full Stack Developer.
+I am looking forward to finish my Iscte degree and 42 course in 2023 and start to work as a Full Stack Developer.
 
 <hr>
 
