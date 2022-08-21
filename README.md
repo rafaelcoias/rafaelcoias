@@ -12,6 +12,6 @@ I am looking forward to end my Iscte degree and 42 course in 2023.
 
 <hr>
 
-Access my website for more info <a>here</a>.
+Access my website for more info <a src="https://github.com/rafaelcoias">here</a>.
 
 Contact me : <a>rafaelmsppcoias@gmail.com</a>
