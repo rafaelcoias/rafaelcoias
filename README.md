@@ -1,16 +1,17 @@
-### Hi there 👋
+### IT , DEVELOPMENT & DESIGN
 
-<!--
-**rafaelcoias/rafaelcoias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, my name is Rafael Cóias.
 
-Here are some ideas to get you started:
+I am currently studying Computer Science and Engenering degree in ISCTE - University Institute of Lisbon. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm also a student at 42 Lisbon where I've been developing a lot of programming and software skills.
+
+In September 2022 I finished CCNA, a Cisco's Cibersecurity course where I learned networking, routing and (of course) cibersecurity.
+
+I am looking forward to end my Iscte degree and 42 course in 2023.
+
+<hr>
+
+Access my website for more info <a>here</a>.
+
+Contact me : <a>rafaelmsppcoias@gmail.com</a>
