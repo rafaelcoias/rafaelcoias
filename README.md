@@ -2,7 +2,7 @@
 
 Hi, my name is Rafael Cóias.
 
-📚️  I am currently studying Computer Science and Engineering degree in ISCTE - University Institute of Lisbon. 
+📚️  I am currently taking a Computer Science and Engineering degree at ISCTE - University Institute of Lisbon. 
 
 💻️  I'm also a student at 42 Lisbon, where I've been developing a lot of programming and software skills.
 
