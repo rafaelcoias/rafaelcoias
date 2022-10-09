@@ -1,17 +1,25 @@
-### Rafael Cóias
+<h1 align="center">Rafael Cóias</h1>
 
-Hi, my name is Rafael Cóias.
+<div align="center">
 
-📚️  I am currently taking a Computer Science and Engineering degree at ISCTE - University Institute of Lisbon. 
+<div align="center"></div>
 
-💻️  I'm also a student at 42 Lisbon, where I've been developing a lot of programming and software skills.
+<p align="center">Hi there! My name is Rafael Cóias, I am 19 years old.</p>
 
-🔐️  In September 2022 I finished CCNA, a Cisco's Cybersecurity course where I learned networking, routing and (of course) cybersecurity.
+<br>
 
-I am looking forward to finish my Iscte degree and 42 course in 2023 and start to work as a Full Stack Developer.
+📚️  I am currently taking a Computer Science and Engineering degree at ISCTE - University Institute of Lisbon 📚️
 
-<hr>
+💻️  I'm also a student at 42 Lisbon, where I've been developing a lot of programming and software skills 💻️
 
-Contact me : <a>rafaelmsppcoias@gmail.com</a>
+🔐️  In September 2022 I finished CCNA, a Cisco's Cybersecurity course where I learned networking, routing and (of course) cybersecurity 🔐️ 
 
-Access my website <a href="https://rafaelcoias.com/">here</a>.
+<br>
+
+<p align="center">I am looking forward to finish my Iscte degree and 42 course in 2023 and start to work as a Full Stack Developer.</p>
+
+<br>
+
+<a href= "https://rafaelcoias.com" align="center"><img align="center" src="https://img.shields.io/badge/-My Website-blue" height="28px"></a> 
+</div>
+
