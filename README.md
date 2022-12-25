@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center">I am looking forward to finish my Iscte degree and 42 course in 2023 and start to work as a Full Stack Developer.</p>
+<p align="center">I am looking forward to finish my Iscte degree and 42 course and start to work as a Full Stack Developer.</p>
 
 <br>
 
