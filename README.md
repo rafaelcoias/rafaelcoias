@@ -4,7 +4,7 @@
 
 <div align="center"></div>
 
-<p align="center">Hi there! My name is Rafael Cóias, I am 19 years old.</p>
+<p align="center">Hi there! My name is Rafael Cóias, I am 21 years old.</p>
 
 <br>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-<p align="center">I am looking forward to finish my Iscte degree and 42 course and start to work as a Full Stack Developer.</p>
+<p align="center">I am looking forward to keep learning and growing with Vision D, a software agency company.</p>
 
 <br>
 
